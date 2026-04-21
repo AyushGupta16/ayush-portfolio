@@ -88,7 +88,7 @@ const Layout = () => {
 
         {/* Mobile menu */}
         {open && (
-          <div className="lg:hidden border-t border-white/5 bg-[#0a0b0a]">
+  <div className="lg:hidden border-t border-white/5 bg-[#0a0b0a] fixed inset-x-0 top-16 bottom-0 z-40 overflow-y-auto">
             <div className="px-6 py-4 flex flex-col gap-1">
               {nav.map((n) => (
                 <NavLink
