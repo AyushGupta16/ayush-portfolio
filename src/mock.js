@@ -15,7 +15,7 @@ export const profile = {
   github: "https://github.com/AyushGupta16",
   linkedin: "https://www.linkedin.com/in/ayushgupta1606",
   resumeUrl:
-    "https://customer-assets.emergentagent.com/job_a45d00aa-5be3-4fb4-b96a-97543936bd72/artifacts/a9bmza39_Ayush%20Gupta%20ML%20Resume%20V1.pdf",
+    "/Ayush-Gupta-Resume.pdf",
 };
 
 export const stats = [
